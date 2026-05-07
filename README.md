@@ -24,6 +24,6 @@ This repo documents everything for **Ivan & Ale** traveling from **San Lorenzo, 
 - [Accommodation](/docs/accommodation.md) — Lara's place, hostels, Airbnbs, hotel costs
 - [Packing List](/docs/packing-list.md) — What to bring from Paraguay, what to buy there
 - [Community & Social](/docs/community-social.md) — Telegram groups, how to join room parties, making friends
-- [Kink & AD Guide](/docs/kink-ad-guide.md) — APA's AD (After Dark) segment, kink communities in Córdoba, safety
-- [Córdoba Activities](/docs/cordoba-activities.md) — Free/cheap things to do before and after the con
-- [Daily Schedule Sample](/docs/daily-schedule.md) — Example day-by-day plan for a 2-week trip
+- [Kink & AD Guide](/docs/kink-ad-guide.md) — APA's AD (After Dark), BDSM scene, gear, safety
+- [Córdoba Activities](/docs/cordoba-activities.md) — Metal bars, otaku places, cannabis clubs, psychs, stoner day trips
+- [Daily Schedule Sample](/docs/daily-schedule.md) — 14-day plan with rock nights, river trips, smoking, and con days
