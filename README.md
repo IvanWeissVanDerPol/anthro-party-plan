@@ -27,3 +27,5 @@ This repo documents everything for **Ivan & Ale** traveling from **San Lorenzo, 
 - [Kink & AD Guide](/docs/kink-ad-guide.md) — APA's AD (After Dark), BDSM scene, gear, safety
 - [Córdoba Activities](/docs/cordoba-activities.md) — Metal bars, otaku places, cannabis clubs, psychs, stoner day trips
 - [Daily Schedule Sample](/docs/daily-schedule.md) — 14-day plan with rock nights, river trips, smoking, and con days
+- [Website Improvement Offer](/docs/website-improvement-offer.md) — Analysis of APA website issues & free help offer to organizers
+- [Community Directory](/docs/community-social.md) — Telegram/WhatsApp/Discord/Instagram links for every Argentine furry group
